@@ -1,0 +1,198 @@
+[
+  {
+    "name": "320 saved ready",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "320 filled overflow",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "320 cert no internal overflow",
+    "pass": true,
+    "detail": {
+      "width": 264,
+      "scroll": 264
+    }
+  },
+  {
+    "name": "320 arsip sticky",
+    "pass": true,
+    "detail": {
+      "position": "sticky",
+      "top": 0
+    }
+  },
+  {
+    "name": "320 runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "360 saved ready",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "360 filled overflow",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "360 cert no internal overflow",
+    "pass": true,
+    "detail": {
+      "width": 292,
+      "scroll": 292
+    }
+  },
+  {
+    "name": "360 arsip sticky",
+    "pass": true,
+    "detail": {
+      "position": "sticky",
+      "top": 0
+    }
+  },
+  {
+    "name": "360 runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "390 saved ready",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "390 filled overflow",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "390 cert no internal overflow",
+    "pass": true,
+    "detail": {
+      "width": 322,
+      "scroll": 322
+    }
+  },
+  {
+    "name": "390 arsip sticky",
+    "pass": true,
+    "detail": {
+      "position": "sticky",
+      "top": 0
+    }
+  },
+  {
+    "name": "390 runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "600 saved ready",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "600 filled overflow",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "600 cert no internal overflow",
+    "pass": true,
+    "detail": {
+      "width": 528,
+      "scroll": 528
+    }
+  },
+  {
+    "name": "600 arsip sticky",
+    "pass": true,
+    "detail": {
+      "position": "sticky",
+      "top": 0
+    }
+  },
+  {
+    "name": "600 runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "768 saved ready",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "768 filled overflow",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "768 cert no internal overflow",
+    "pass": true,
+    "detail": {
+      "width": 696,
+      "scroll": 696
+    }
+  },
+  {
+    "name": "768 arsip sticky",
+    "pass": true,
+    "detail": {
+      "position": "sticky",
+      "top": 0
+    }
+  },
+  {
+    "name": "768 runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "899 saved ready",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "899 filled overflow",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "899 cert no internal overflow",
+    "pass": true,
+    "detail": {
+      "width": 827,
+      "scroll": 827
+    }
+  },
+  {
+    "name": "899 arsip sticky",
+    "pass": true,
+    "detail": {
+      "position": "sticky",
+      "top": 0
+    }
+  },
+  {
+    "name": "899 runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "no gsap thread hidden",
+    "pass": true,
+    "detail": null
+  },
+  {
+    "name": "no gsap four articles",
+    "pass": true,
+    "detail": null
+  }
+]

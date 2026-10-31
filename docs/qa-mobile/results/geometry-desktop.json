@@ -1,0 +1,852 @@
+{
+  "desktop": [
+    {
+      "width": 1024,
+      "section": "beranda",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1024,
+      "section": "arsip",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1024,
+      "section": "playground",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1024,
+      "section": "dampak",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1024,
+      "section": "kredit",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1280,
+      "section": "beranda",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1280,
+      "section": "arsip",
+      "changedPixels": 1184,
+      "fraction": 0.0010277777777777778
+    },
+    {
+      "width": 1280,
+      "section": "playground",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1280,
+      "section": "dampak",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1280,
+      "section": "kredit",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1440,
+      "section": "beranda",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1440,
+      "section": "arsip",
+      "changedPixels": 3428,
+      "fraction": 0.002645061728395062
+    },
+    {
+      "width": 1440,
+      "section": "playground",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1440,
+      "section": "dampak",
+      "changedPixels": 0,
+      "fraction": 0.0
+    },
+    {
+      "width": 1440,
+      "section": "kredit",
+      "changedPixels": 0,
+      "fraction": 0.0
+    }
+  ],
+  "mobile": [
+    {
+      "width": 320,
+      "heroRatio": 0.9526654411764706,
+      "heroLines": 4,
+      "overflow": 0,
+      "headings": [
+        {
+          "text": "KOMPUTER\n            PERTAMA\n           ",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "Menenun ke masa depan",
+          "width": 264,
+          "scroll": 264
+        },
+        {
+          "text": "Dari serat ke sandi, dalam empat langkah",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "[ ARSIP SANDI // ANATOMI ALAT TENUN ]",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "LUNGSI = 0 / 1",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "PENGGULUNG = MEMORI",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "SISIR = EKSEKUSI",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "KAIN = KELUARAN",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "PROGRAM MOTIFMU",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "Petunjuk Penenun & Arsip Register",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "PIAGAMMU MENUNGGU MOTIF PERTAMAMU",
+          "width": 182,
+          "scroll": 182
+        },
+        {
+          "text": "KURASI & KREDIT",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "Catatan Kurasi: Nalar Analogi & Batas Hi",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "Matriks Atribusi Arsip",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "Kontinuum Nalar Biner",
+          "width": 272,
+          "scroll": 272
+        },
+        {
+          "text": "Tenun Gedogan Nusantara",
+          "width": 246,
+          "scroll": 246
+        },
+        {
+          "text": "Mesin Tenun Jacquard",
+          "width": 246,
+          "scroll": 246
+        },
+        {
+          "text": "Algoritma Pertama Ada Lovelace",
+          "width": 246,
+          "scroll": 246
+        },
+        {
+          "text": "Sandi Leluhur: Repositori Pusaka",
+          "width": 246,
+          "scroll": 246
+        }
+      ],
+      "grid": {
+        "client": 272,
+        "scroll": 335
+      },
+      "arsipVisual": "sticky"
+    },
+    {
+      "width": 360,
+      "heroRatio": 0.97171875,
+      "heroLines": 4,
+      "overflow": 0,
+      "headings": [
+        {
+          "text": "KOMPUTER\n            PERTAMA\n           ",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "Menenun ke masa depan",
+          "width": 264,
+          "scroll": 264
+        },
+        {
+          "text": "Dari serat ke sandi, dalam empat langkah",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "[ ARSIP SANDI // ANATOMI ALAT TENUN ]",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "LUNGSI = 0 / 1",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "PENGGULUNG = MEMORI",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "SISIR = EKSEKUSI",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "KAIN = KELUARAN",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "PROGRAM MOTIFMU",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "Petunjuk Penenun & Arsip Register",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "PIAGAMMU MENUNGGU MOTIF PERTAMAMU",
+          "width": 196,
+          "scroll": 196
+        },
+        {
+          "text": "KURASI & KREDIT",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "Catatan Kurasi: Nalar Analogi & Batas Hi",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "Matriks Atribusi Arsip",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "Kontinuum Nalar Biner",
+          "width": 300,
+          "scroll": 300
+        },
+        {
+          "text": "Tenun Gedogan Nusantara",
+          "width": 274,
+          "scroll": 274
+        },
+        {
+          "text": "Mesin Tenun Jacquard",
+          "width": 274,
+          "scroll": 274
+        },
+        {
+          "text": "Algoritma Pertama Ada Lovelace",
+          "width": 274,
+          "scroll": 274
+        },
+        {
+          "text": "Sandi Leluhur: Repositori Pusaka",
+          "width": 274,
+          "scroll": 274
+        }
+      ],
+      "grid": {
+        "client": 300,
+        "scroll": 335
+      },
+      "arsipVisual": "sticky"
+    },
+    {
+      "width": 390,
+      "heroRatio": 0.9570075757575758,
+      "heroLines": 4,
+      "overflow": 0,
+      "headings": [
+        {
+          "text": "KOMPUTER\n            PERTAMA\n           ",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "Menenun ke masa depan",
+          "width": 264,
+          "scroll": 264
+        },
+        {
+          "text": "Dari serat ke sandi, dalam empat langkah",
+          "width": 324,
+          "scroll": 324
+        },
+        {
+          "text": "[ ARSIP SANDI // ANATOMI ALAT TENUN ]",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "LUNGSI = 0 / 1",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "PENGGULUNG = MEMORI",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "SISIR = EKSEKUSI",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "KAIN = KELUARAN",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "PROGRAM MOTIFMU",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "Petunjuk Penenun & Arsip Register",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "PIAGAMMU MENUNGGU MOTIF PERTAMAMU",
+          "width": 210,
+          "scroll": 210
+        },
+        {
+          "text": "KURASI & KREDIT",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "Catatan Kurasi: Nalar Analogi & Batas Hi",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "Matriks Atribusi Arsip",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "Kontinuum Nalar Biner",
+          "width": 330,
+          "scroll": 330
+        },
+        {
+          "text": "Tenun Gedogan Nusantara",
+          "width": 304,
+          "scroll": 304
+        },
+        {
+          "text": "Mesin Tenun Jacquard",
+          "width": 304,
+          "scroll": 304
+        },
+        {
+          "text": "Algoritma Pertama Ada Lovelace",
+          "width": 304,
+          "scroll": 304
+        },
+        {
+          "text": "Sandi Leluhur: Repositori Pusaka",
+          "width": 304,
+          "scroll": 304
+        }
+      ],
+      "grid": {
+        "client": 330,
+        "scroll": 335
+      },
+      "arsipVisual": "sticky"
+    },
+    {
+      "width": 480,
+      "heroRatio": 0.9206845238095238,
+      "heroLines": 4,
+      "overflow": 0,
+      "headings": [
+        {
+          "text": "KOMPUTER\n            PERTAMA\n           ",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "Menenun ke masa depan",
+          "width": 264,
+          "scroll": 264
+        },
+        {
+          "text": "Dari serat ke sandi, dalam empat langkah",
+          "width": 324,
+          "scroll": 324
+        },
+        {
+          "text": "[ ARSIP SANDI // ANATOMI ALAT TENUN ]",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "LUNGSI = 0 / 1",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "PENGGULUNG = MEMORI",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "SISIR = EKSEKUSI",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "KAIN = KELUARAN",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "PROGRAM MOTIFMU",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "Petunjuk Penenun & Arsip Register",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "PIAGAMMU MENUNGGU MOTIF PERTAMAMU",
+          "width": 266,
+          "scroll": 266
+        },
+        {
+          "text": "KURASI & KREDIT",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "Catatan Kurasi: Nalar Analogi & Batas Hi",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "Matriks Atribusi Arsip",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "Kontinuum Nalar Biner",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "Tenun Gedogan Nusantara",
+          "width": 394,
+          "scroll": 394
+        },
+        {
+          "text": "Mesin Tenun Jacquard",
+          "width": 394,
+          "scroll": 394
+        },
+        {
+          "text": "Algoritma Pertama Ada Lovelace",
+          "width": 394,
+          "scroll": 394
+        },
+        {
+          "text": "Sandi Leluhur: Repositori Pusaka",
+          "width": 394,
+          "scroll": 394
+        }
+      ],
+      "grid": {
+        "client": 420,
+        "scroll": 420
+      },
+      "arsipVisual": "sticky"
+    },
+    {
+      "width": 600,
+      "heroRatio": 0.9064540578358209,
+      "heroLines": 4,
+      "overflow": 0,
+      "headings": [
+        {
+          "text": "KOMPUTER\n            PERTAMA\n           ",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "Menenun ke masa depan",
+          "width": 264,
+          "scroll": 264
+        },
+        {
+          "text": "Dari serat ke sandi, dalam empat langkah",
+          "width": 378,
+          "scroll": 378
+        },
+        {
+          "text": "[ ARSIP SANDI // ANATOMI ALAT TENUN ]",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "LUNGSI = 0 / 1",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "PENGGULUNG = MEMORI",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "SISIR = EKSEKUSI",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "KAIN = KELUARAN",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "PROGRAM MOTIFMU",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "Petunjuk Penenun & Arsip Register",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "PIAGAMMU MENUNGGU MOTIF PERTAMAMU",
+          "width": 336,
+          "scroll": 336
+        },
+        {
+          "text": "KURASI & KREDIT",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "Catatan Kurasi: Nalar Analogi & Batas Hi",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "Matriks Atribusi Arsip",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "Kontinuum Nalar Biner",
+          "width": 536,
+          "scroll": 536
+        },
+        {
+          "text": "Tenun Gedogan Nusantara",
+          "width": 510,
+          "scroll": 510
+        },
+        {
+          "text": "Mesin Tenun Jacquard",
+          "width": 510,
+          "scroll": 510
+        },
+        {
+          "text": "Algoritma Pertama Ada Lovelace",
+          "width": 510,
+          "scroll": 510
+        },
+        {
+          "text": "Sandi Leluhur: Repositori Pusaka",
+          "width": 510,
+          "scroll": 510
+        }
+      ],
+      "grid": {
+        "client": 536,
+        "scroll": 536
+      },
+      "arsipVisual": "sticky"
+    },
+    {
+      "width": 768,
+      "heroRatio": 0.8771306818181818,
+      "heroLines": 4,
+      "overflow": 0,
+      "headings": [
+        {
+          "text": "KOMPUTER\n            PERTAMA\n           ",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "Menenun ke masa depan",
+          "width": 264,
+          "scroll": 264
+        },
+        {
+          "text": "Dari serat ke sandi, dalam empat langkah",
+          "width": 486,
+          "scroll": 486
+        },
+        {
+          "text": "[ ARSIP SANDI // ANATOMI ALAT TENUN ]",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "LUNGSI = 0 / 1",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "PENGGULUNG = MEMORI",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "SISIR = EKSEKUSI",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "KAIN = KELUARAN",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "PROGRAM MOTIFMU",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "Petunjuk Penenun & Arsip Register",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "PIAGAMMU MENUNGGU MOTIF PERTAMAMU",
+          "width": 420,
+          "scroll": 420
+        },
+        {
+          "text": "KURASI & KREDIT",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "Catatan Kurasi: Nalar Analogi & Batas Hi",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "Matriks Atribusi Arsip",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "Kontinuum Nalar Biner",
+          "width": 704,
+          "scroll": 704
+        },
+        {
+          "text": "Tenun Gedogan Nusantara",
+          "width": 678,
+          "scroll": 678
+        },
+        {
+          "text": "Mesin Tenun Jacquard",
+          "width": 678,
+          "scroll": 678
+        },
+        {
+          "text": "Algoritma Pertama Ada Lovelace",
+          "width": 678,
+          "scroll": 678
+        },
+        {
+          "text": "Sandi Leluhur: Repositori Pusaka",
+          "width": 678,
+          "scroll": 678
+        }
+      ],
+      "grid": {
+        "client": 704,
+        "scroll": 704
+      },
+      "arsipVisual": "sticky"
+    },
+    {
+      "width": 899,
+      "heroRatio": 0.8727732035928144,
+      "heroLines": 4,
+      "overflow": 0,
+      "headings": [
+        {
+          "text": "KOMPUTER\n            PERTAMA\n           ",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "Menenun ke masa depan",
+          "width": 264,
+          "scroll": 264
+        },
+        {
+          "text": "Dari serat ke sandi, dalam empat langkah",
+          "width": 558,
+          "scroll": 558
+        },
+        {
+          "text": "[ ARSIP SANDI // ANATOMI ALAT TENUN ]",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "LUNGSI = 0 / 1",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "PENGGULUNG = MEMORI",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "SISIR = EKSEKUSI",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "KAIN = KELUARAN",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "PROGRAM MOTIFMU",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "Petunjuk Penenun & Arsip Register",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "PIAGAMMU MENUNGGU MOTIF PERTAMAMU",
+          "width": 504,
+          "scroll": 504
+        },
+        {
+          "text": "KURASI & KREDIT",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "Catatan Kurasi: Nalar Analogi & Batas Hi",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "Matriks Atribusi Arsip",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "Kontinuum Nalar Biner",
+          "width": 835,
+          "scroll": 835
+        },
+        {
+          "text": "Tenun Gedogan Nusantara",
+          "width": 809,
+          "scroll": 809
+        },
+        {
+          "text": "Mesin Tenun Jacquard",
+          "width": 809,
+          "scroll": 809
+        },
+        {
+          "text": "Algoritma Pertama Ada Lovelace",
+          "width": 809,
+          "scroll": 809
+        },
+        {
+          "text": "Sandi Leluhur: Repositori Pusaka",
+          "width": 809,
+          "scroll": 809
+        }
+      ],
+      "grid": {
+        "client": 835,
+        "scroll": 835
+      },
+      "arsipVisual": "sticky"
+    }
+  ]
+}

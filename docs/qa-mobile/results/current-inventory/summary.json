@@ -1,0 +1,92 @@
+[
+  {
+    "width": 1440,
+    "visible": 692,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 1280,
+    "visible": 692,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 1024,
+    "visible": 692,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 899,
+    "visible": 691,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "visible"
+  },
+  {
+    "width": 768,
+    "visible": 691,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "visible"
+  },
+  {
+    "width": 600,
+    "visible": 691,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "visible"
+  },
+  {
+    "width": 480,
+    "visible": 691,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "visible"
+  },
+  {
+    "width": 390,
+    "visible": 672,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "visible"
+  },
+  {
+    "width": 360,
+    "visible": 659,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "visible"
+  },
+  {
+    "width": 320,
+    "visible": 646,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "visible"
+  }
+]

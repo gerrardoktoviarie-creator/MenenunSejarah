@@ -1,0 +1,56 @@
+[
+  {
+    "width": 1440,
+    "visible": 692,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 1280,
+    "visible": 692,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 1024,
+    "visible": 692,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 768,
+    "visible": 686,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 390,
+    "visible": 640,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  },
+  {
+    "width": 320,
+    "visible": 640,
+    "overflow": 0,
+    "errors": [],
+    "networkFailures": [],
+    "gsap": true,
+    "bodyOverflowX": "clip"
+  }
+]

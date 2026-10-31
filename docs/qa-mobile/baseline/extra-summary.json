@@ -1,0 +1,145 @@
+{
+  "filled": [
+    {
+      "width": 1440,
+      "visible": 824,
+      "overflow": 0
+    },
+    {
+      "width": 1280,
+      "visible": 824,
+      "overflow": 0
+    },
+    {
+      "width": 1024,
+      "visible": 824,
+      "overflow": 0
+    },
+    {
+      "width": 768,
+      "visible": 818,
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "visible": 772,
+      "overflow": 0
+    },
+    {
+      "width": 320,
+      "visible": 772,
+      "overflow": 0
+    }
+  ],
+  "unclipped": [
+    {
+      "width": 1440,
+      "overflow": 0
+    },
+    {
+      "width": 1280,
+      "overflow": 0
+    },
+    {
+      "width": 1024,
+      "overflow": 0
+    },
+    {
+      "width": 768,
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "overflow": 0
+    },
+    {
+      "width": 320,
+      "overflow": 0
+    }
+  ],
+  "shortHero": [
+    {
+      "width": 390,
+      "height": 844,
+      "items": [
+        {
+          "selector": "boot__title",
+          "top": 127.25,
+          "bottom": 309.75,
+          "withinViewport": true
+        },
+        {
+          "selector": "boot__lead",
+          "top": 402.546875,
+          "bottom": 480.828125,
+          "withinViewport": true
+        },
+        {
+          "selector": "btn btn--primary",
+          "top": 544.828125,
+          "bottom": 600.828125,
+          "withinViewport": true
+        }
+      ]
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "items": [
+        {
+          "selector": "boot__title",
+          "top": 105.59375,
+          "bottom": 274.03125,
+          "withinViewport": true
+        },
+        {
+          "selector": "boot__lead",
+          "top": 366.828125,
+          "bottom": 471.203125,
+          "withinViewport": true
+        },
+        {
+          "selector": "btn btn--primary",
+          "top": 535.203125,
+          "bottom": 591.203125,
+          "withinViewport": true
+        }
+      ]
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "items": [
+        {
+          "selector": "boot__title",
+          "top": 105.59375,
+          "bottom": 267.03125,
+          "withinViewport": true
+        },
+        {
+          "selector": "boot__lead",
+          "top": 363.4375,
+          "bottom": 441.71875,
+          "withinViewport": false
+        },
+        {
+          "selector": "btn btn--primary",
+          "top": 505.71875,
+          "bottom": 561.71875,
+          "withinViewport": false
+        }
+      ]
+    }
+  ],
+  "lighthouse": {
+    "exit": 0,
+    "scores": {
+      "performance": 0.85,
+      "accessibility": 0.97,
+      "best-practices": 1,
+      "seo": 1,
+      "agentic-browsing": 1
+    },
+    "url": "http://127.0.0.1:63493/index.html"
+  }
+}

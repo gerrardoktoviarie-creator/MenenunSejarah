@@ -1,0 +1,747 @@
+[
+  {
+    "name": "320: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "320: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "320: coordinates",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "320: readable",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "320: sticky controls",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "320: thread",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "320: no global clipping",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "360: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "360: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "360: coordinates",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "360: readable",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "360: sticky controls",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "360: thread",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "360: no global clipping",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "390: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "390: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "390: coordinates",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "390: readable",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "390: sticky controls",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "390: thread",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "390: no global clipping",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "480: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "480: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "480: coordinates",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "480: readable",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "480: sticky controls",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "480: thread",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "480: no global clipping",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "600: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "600: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "600: coordinates",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "600: readable",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "600: sticky controls",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "600: thread",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "600: no global clipping",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 11,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "768: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 12.288,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "768: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "768: coordinates",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 12.288,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "768: readable",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 12.288,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "768: sticky controls",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 12.288,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "768: thread",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 12.288,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "768: no global clipping",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 12.288,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "899: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "899: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "899: coordinates",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "899: readable",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "899: sticky controls",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "899: thread",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "899: no global clipping",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 16,
+      "legend": 16,
+      "controls": "sticky",
+      "thread": "block",
+      "body": "visible"
+    }
+  },
+  {
+    "name": "900: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 12,
+      "legend": 14,
+      "controls": "static",
+      "thread": "block",
+      "body": "clip"
+    }
+  },
+  {
+    "name": "900: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "1024: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 12,
+      "legend": 14,
+      "controls": "static",
+      "thread": "block",
+      "body": "clip"
+    }
+  },
+  {
+    "name": "1024: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "1280: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 12,
+      "legend": 14,
+      "controls": "static",
+      "thread": "block",
+      "body": "clip"
+    }
+  },
+  {
+    "name": "1280: runtime",
+    "pass": true,
+    "detail": []
+  },
+  {
+    "name": "1440: overflow",
+    "pass": true,
+    "detail": {
+      "overflow": 0,
+      "ruler": "grid",
+      "row": "grid",
+      "cell": 14,
+      "trust": 12,
+      "legend": 14,
+      "controls": "static",
+      "thread": "block",
+      "body": "clip"
+    }
+  },
+  {
+    "name": "1440: runtime",
+    "pass": true,
+    "detail": []
+  }
+]

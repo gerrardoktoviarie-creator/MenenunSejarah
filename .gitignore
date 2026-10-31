@@ -1,0 +1,4 @@
+node_modules/
+scratch/
+*.log
+dom_headless.html
