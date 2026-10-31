@@ -2,3 +2,5 @@ node_modules/
 scratch/
 *.log
 dom_headless.html
+console.log
+PROMPT-OPENCODE.md
