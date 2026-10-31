@@ -90,11 +90,6 @@
   border-top: var(--line-hair) solid var(--c-brass);
 }
 
-.boot__cred-sep {
-  margin: 0 var(--sp-2);
-  color: var(--c-brass);
-}
-
 .boot__scroll {
   display: inline-flex;
   align-items: center;
@@ -1083,15 +1078,6 @@
   font-size: var(--fs-label);
   letter-spacing: var(--ls-label);
   border-bottom: var(--line-hair) solid var(--c-brass);
-}
-
-.cert__number {
-  margin-top: var(--sp-2);
-  overflow-wrap: anywhere;
-  font-family: var(--f-mono);
-  font-size: var(--fs-label);
-  letter-spacing: 0.06em;
-  color: var(--c-brass-ink-small);
 }
 
 .cert__body {

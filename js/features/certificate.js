@@ -138,7 +138,6 @@
     text(ctx, 'KODEKS PRESERVASI NUSANTARA', 64, 84, mono, COLORS.void);
     text(ctx, 'LEMBAR PIAGAM DIGITAL', W - 64, 84, mono, COLORS.void, 'right');
     hairline(ctx, 64, 108, W - 64);
-    text(ctx, 'NO. PIAGAM: ' + ident.nomorPiagam + ' // STATUS: DIBUAT UNTUKMU', 64, 156, mono, COLORS.brassInk);
     text(ctx, 'PENJAGA PUSAKA', 60, 300, '120px Anton, Impact, sans-serif', COLORS.void);
     text(ctx, 'Dengan ini menenun masa lalu ke masa depan.', 64, 362, 'italic 34px "Playfair Display", Georgia, serif', COLORS.void);
 
